@@ -6,8 +6,6 @@ import (
 	"os"
 	"strings"
 	"unicode"
-
-	//	"unicode"
 	"unicode/utf8"
 )
 
